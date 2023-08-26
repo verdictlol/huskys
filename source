@@ -7,7 +7,7 @@ getgenv().DNS = {
         Main = {
             Enabled = true,
             Mode = "Target",
-            Toggle = "z",
+            Toggle = "n",
             Prediction = 0.11061,
             Parts = {"Head","LowerTorso","UpperTorso"}
         },
